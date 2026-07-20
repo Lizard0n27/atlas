@@ -7,7 +7,7 @@ Atlas is designed to reduce noise, not increase tracking.
 If focuses on a small number of useful inputs and helps users make better decisions based on trends instead of day-to-day fluctuations.
 
 ## planned features
-see future_features.md
+see roadmap.md
 
 ## version
 Current version: 0.1
